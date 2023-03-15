@@ -6,8 +6,11 @@ This Python code is designed to extract URLs from nested sitemaps of a website. 
 This script requires the following Python modules:
 
 urllib.request for making HTTP requests
+
 re for regular expression matching
+
 sys for command-line arguments
+
 pandas for creating and manipulating data frames
 
 # Usage
